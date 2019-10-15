@@ -1,7 +1,7 @@
 # IMDB-Movie-Recommender
 Content based movie recommender
 
-Packages used: pandas, numpy, nlyk, sklearn, matplotlib, selenium, re
+Packages used: pandas, numpy, nltk, sklearn, matplotlib, selenium, re
 
 Series of Jupyter notebooks:
 
