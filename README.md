@@ -20,3 +20,5 @@ Series of Jupyter notebooks:
 
   I creted a movie similarity matrix using the cosine similarity between movies
   I created a method to display the most similiar movies to another
+
+4. pca_
