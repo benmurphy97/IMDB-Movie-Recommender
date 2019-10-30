@@ -11,7 +11,7 @@ Series of Jupyter notebooks:
   I first used Selenium to do e2e integration tests during my internship in SAP.
   I tranferred these skills over to scrpae data.
   
-2. IMDB_Selenium_scraper.ipynb
+2. Data_Cleaning_Feature_Engineering.ipynb
 
   I engineered features from genre, director, actor, storyline and production company
   I saved features in seperate pickles
