@@ -18,7 +18,10 @@ Series of Jupyter notebooks:
   
 3. Movie_Recommender.ipynb
 
-  I creted a movie similarity matrix using the cosine similarity between movies
+  I created a movie similarity matrix using the cosine similarity between movies
   I created a method to display the most similiar movies to another
 
-4. pca_
+4. PCA_similarity_recommender.ipynb
+
+  I redcued the dimensionality of our dataset to enable better similarity scores
+
