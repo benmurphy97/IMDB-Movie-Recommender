@@ -1,7 +1,7 @@
 # IMDB-Movie-Recommender
 Content based movie recommender
 
-Packages used: pandas, numpy, nltk, sklearn, matplotlib, selenium, re
+Packages used: pandas, numpy, nltk, sklearn, matplotlib, selenium, re, keras, tensorflow, ipywidgets, pickle
 
 Series of Jupyter notebooks:
 
@@ -27,6 +27,7 @@ Series of Jupyter notebooks:
 
 5. title_char_based_predictions.ipynb
 
-  I built a character level language model using Keras LSTM to predict a word from title based a small number of characters         from that title. 
-  I used a 2 character look-ahead method by maximizing the product of the probabilites of the next 2 characters.
+  I built a character level language model using Keras (tensorflow) LSTM 
+  I used it to predict a word from title based a small number of characters 
+  I used a 2 character look-ahead method by maximizing the product of the probabilites of the next 2 characters
   I used an ipywidget to dynamically update the input and produce the latest predicted word
