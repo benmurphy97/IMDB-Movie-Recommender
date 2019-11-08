@@ -25,3 +25,8 @@ Series of Jupyter notebooks:
 
   I redcued the dimensionality of our dataset to enable better similarity scores
 
+5. title_char_based_predictions.ipynb
+
+  I built a character level language model using Keras LSTM to predict a word from title based a small number of characters         from that title. 
+  I used a 2 character look-ahead method by maximizing the product of the probabilites of the next 2 characters.
+  I used an ipywidget to dynamically update the input and produce the latest predicted word
